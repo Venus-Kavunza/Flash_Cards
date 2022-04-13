@@ -1,0 +1,13 @@
+nav {
+    background-color: blue;
+    color: white;
+    justify-content: space-around;
+}
+nav a:first-child{
+    font-family: 'Parisienne', cursive;
+    font-size: larger;
+    font-weight: 600;
+}
+.btn {
+    background-color: white;
+}
